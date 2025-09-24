@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 Clone the repository and run the script:
-```
+```bash
 git clone https://github.com/prototypesick/IDA-RPC.git
 cd ida-rpc
 python -m venv IDA-RPC
