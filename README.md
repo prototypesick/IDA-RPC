@@ -16,7 +16,7 @@ When you're disassembling a binary in IDA, your Discord profile will automatical
 - That you're using IDA
 - The name of the binary you're analyzing
 
-> ⚠️ Currently Linux-only, since it uses `xdotool` to grab window titles.
+> ⚠️ Currently Linux-only, since it uses `xdotool` to grab window titles, and it runs in the background.
 
 ---
 
@@ -43,3 +43,4 @@ source IDA-RPC/bin/activate
 pip install -r requirements.txt
 python3 ida_rpc.py
 ```
+sorry if my code is little too 'weird' i havent coded in python for a while
