@@ -43,4 +43,7 @@ source IDA-RPC/bin/activate
 pip install -r requirements.txt
 python3 ida_rpc.py
 ```
+**Alternatively you could user starter.sh to auto-start the python script so it uses way less in the background.**
+
+
 sorry if my code is little too 'weird' i havent coded in python for a while
